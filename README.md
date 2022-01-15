@@ -15,14 +15,14 @@ In a terminal
 
 ```bash
 vagrant plugin install vagrant-hostmanager
-git clone https://github.com/wazo-platform/vagrant.git
+git clone https://github.com/tareqmy/wazovagrant.git
 cd vagrant
 vagrant up
 ```
 
 You'll be prompted for password about NFS share and adding the hostname and IP to your `hosts` file.
 
-Head to https://wazo.vagrant
+Head to https://wazovagrant.com
 
 ## Next
 
